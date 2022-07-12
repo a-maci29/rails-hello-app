@@ -70,3 +70,10 @@ Rails.application.configure do
 
   
 end
+
+Rails.application.configure do
+
+  # Allow Cloud9 connections.
+  config
+
+end
